@@ -200,7 +200,7 @@
 			files = (
 			);
 			inputPaths = (
-				"$(SRCROOT)/Carthage/Carthage/Build/iOS/APAddressBook.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/APAddressBook.framework",
 			);
 			outputPaths = (
 			);
