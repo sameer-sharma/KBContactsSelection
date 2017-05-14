@@ -1,0 +1,19 @@
+//
+//  KBContactsSelection.pch
+//  KBContactsSelection
+//
+//  Created by Sameer Sharma on 14/05/17.
+//  Copyright © 2017 burczyk. All rights reserved.
+//
+
+#ifndef KBContactsSelection_pch
+#define KBContactsSelection_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <APAddressBook/APAddressBookFramework.h>
+
+#endif /* KBContactsSelection_pch */

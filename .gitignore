@@ -18,3 +18,10 @@ DerivedData
 
 #CocoaPods
 Pods
+
+# Carthage
+Carthage/Carthage
+
+KBContactsSelection.xcodeproj/xcuserdata/
+KBContactsSelection.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace
